@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "이지후"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "돈이 최고야."
+  location         : "대한만국 인천광역시 계양구 안남로 173번길 18 두산아파트"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:ghoo@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -121,13 +121,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://www.facebook.com/profile.php?id=100044969440689"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://www.instagram.com/dlwlgn0807/"
 
 # Site Footer
 footer:
